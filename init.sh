@@ -26,10 +26,10 @@ fi
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
-cd $HOME
-git clone https://github.com/Sercio4892/Workflow.git  $HOME
-cp /Workflow/.vimrc $HOME
-cp /Workflow/.tmux.conf $HOME
+cd ~/
+git clone https://github.com/Sercio4892/Workflow.git 
+cp /Workflow/.vimrc ~/
+cp /Workflow/.tmux.conf ~/
 
 
 
