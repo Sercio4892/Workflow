@@ -28,8 +28,8 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 
 cd ~/
 git clone https://github.com/Sercio4892/Workflow.git 
-cp /Workflow/.vimrc ~/
-cp /Workflow/.tmux.conf ~/
+cp Workflow/.vimrc ~/
+cp Workflow/.tmux.conf ~/
 
 
 
